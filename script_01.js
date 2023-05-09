@@ -17,7 +17,7 @@
 /***** 02 Deklaration + Wertzuweisung I *******/
 
 // let firstName; // Deklaration (Definition)
-<<<<<<< HEAD
+
 // firstName = "Ozan"; // Wertzuweisung
 // console.log(firstName); // Ausgabe
 
@@ -33,7 +33,7 @@
 // familyName = prompt("Bite Nachnamen eingeben:");
 
 // console.log(firstName +" "+ familyName);
-=======
+
 // firstName = "Max"; // Wertzuweisung
 // console.log(firstName); // Ausgabe
 
@@ -49,23 +49,20 @@
 // familyName = prompt("Bitte Nachnamen eingeben:");
 
 // console.log(firstName + " " + familyName);
->>>>>>> febca31cec4b66cf70ad065ab51772106189d1ca
+
 // console.log(typeof firstName);
 
 /* JS ist eine untypisierte Sprache! | untyped */
 
-<<<<<<< HEAD
-let test; 
-test = "Ozan"; // string
-test = 2; // number
-test = true; // boolean
-
-
+// let test; 
+// test = "Ozan"; // string
+// test = 2; // number
+// test = true; // boolean
 
 
 console.log("Datentyp: " + typeof test);
 console.log("Inhalt: " + test);
-=======
+
 let test;
 test = "Max"; // string
 test = 2; // number
@@ -84,4 +81,4 @@ console.log("Inhalt: " + test);
 
 
 
->>>>>>> febca31cec4b66cf70ad065ab51772106189d1ca
+
