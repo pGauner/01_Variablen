@@ -53,6 +53,13 @@
 
 // console.log("Inhalt: " + test);
 
+/****** 04 Beispiel - Berechnung *******/
+
+//Deklaration
+const birthYearJohn = 2000;
+const bithYearMark = 1990;
+let ageJohn, ageMark;
+
 
 
 
